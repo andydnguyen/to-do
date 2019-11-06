@@ -1,5 +1,5 @@
 # To-Do-List Using JavaScript
-The to-do list has a beautiful UI, the user can add a to-do by filling the input and hit ENTER, after the user can rather check the to-do when it's done, or remove it using the delete button.
+The to-do list has a beautiful UI, the user can add a to-do by filling the input and hit ENTER, after the user can check the to-do when it's done, or remove it using the delete button.
 
 The user's to-do list is stored in the local storage, so when the page refreshes the list will remain there.
 
